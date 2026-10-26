@@ -31,8 +31,9 @@ more than 400 cited claims.
 ## Background
 
 - **Day job:** B2B messaging (SMS, WhatsApp, Viber). I designed and built the
-  company website, [ritorica.com](https://ritorica.com): Django CMS, PostgreSQL,
-  a Gemini chatbot and automated deploys. I also write technical specs and
+  company website, [ritorica.com](https://ritorica.com), and took it from the
+  first commit to production on a Linux server: Django CMS, PostgreSQL, a Gemini
+  chatbot and automated deploys. I also write technical specs and
   documentation, and talk to client engineers and partners at industry events.
 - **Before that:** Arabic AI quality at Yandex, reviewing and correcting
   answers from the Alice voice assistant.
