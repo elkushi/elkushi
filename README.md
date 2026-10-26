@@ -25,7 +25,7 @@ more than 400 cited claims.
 
 | | |
 |---|---|
-| [**claude-ai-workflows**](https://github.com/elkushi/claude-ai-workflows) | Agentic workflows built with Claude Code. Parallel research agents, a JSON Schema contract between steps, a validator as the gate, branded PDF output. |
+| [**claude_vibe_coding_projects**](https://github.com/elkushi/claude_vibe_coding_projects) | Agentic workflows built with Claude Code. Parallel research agents, a JSON Schema contract between steps, a validator as the gate, branded PDF output. |
 | [**system-audit**](https://github.com/elkushi/system-audit) | Bash tool that audits a Linux server: SUID files, open ports, SSH config, cron jobs, sensitive file permissions, failed logins. Writes a timestamped report. |
 
 ## Background
