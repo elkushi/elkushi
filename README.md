@@ -3,6 +3,8 @@
   <img alt="Moustafa Elkoushy, AI product engineer. I build AI products, and I make the AI check its own work." src="./assets/header-light.svg">
 </picture>
 
+**Case studies and the full portfolio: [elkushi.github.io](https://elkushi.github.io)** · also in [العربية](https://elkushi.github.io/ar/) and [русский](https://elkushi.github.io/ru/)
+
 I build AI products end to end, from design to production. Most of them run
 on Claude Code. An agent reads a written procedure,
 calls small Python tools in order, and produces a finished deliverable: a
@@ -28,6 +30,7 @@ more than 400 cited claims.
 |---|---|
 | [**claude_vibe_coding_projects**](https://github.com/elkushi/claude_vibe_coding_projects) | Agentic workflows built with Claude Code. Parallel research agents, a JSON Schema contract between steps, a validator as the gate, branded PDF output. |
 | [**ai-video-image-generator**](https://github.com/elkushi/ai-video-image-generator) | My own app: brand kit + topic in, short videos and image posts out. Claude agents write, Python tools render, QA checks the result. FastAPI + React web app, Docker, CI. |
+| [**elkoushy_seo_geo_aeo**](https://github.com/elkushi/elkoushy_seo_geo_aeo) | Audits a website for Google, answer engines and AI search in under a minute: scored report, a plan ranked by impact, and code to paste in. FastAPI, Playwright, Claude Code agents, tested in CI on SQLite and Postgres. |
 | [**system-audit**](https://github.com/elkushi/system-audit) | Bash tool that audits a Linux server: SUID files, open ports, SSH config, cron jobs, sensitive file permissions, failed logins. Writes a timestamped report. |
 
 ## Security basics
@@ -47,11 +50,16 @@ I build AI apps with basic security from the start:
   first commit to production on a Linux server: Django CMS, PostgreSQL, a Gemini
   chatbot and automated deploys. I also write technical specs and
   documentation, and talk to client engineers and partners at industry events.
-- **Before that:** Arabic AI quality at Yandex, reviewing and correcting
-  answers from the Alice voice assistant.
+  I also designed the brand and UI system the website, decks, emails and print
+  work are built on &mdash; [case study](https://elkushi.github.io/work/design-system.html).
+- **Before that:** Arabic AI quality at Yandex, on Yasmina, the Arabic version
+  of the Alice voice assistant.
+- **Earlier:** UAV engineer at Moscow Aviation Institute's university factories,
+  with STM32, Arduino and ArduPilot.
 - **Education:** MSc Software Engineering, BSc Avionics Engineering, Moscow
-  Aviation Institute.
-- **Languages:** Arabic (native), English and Russian (C1).
+  Aviation Institute. Currently taking an AI and Machine Learning diploma at Route.
+- **Based in:** Moscow. Open to remote work and to relocation.
+- **Languages:** Arabic (native), Russian (C2), English (C1&ndash;C2).
 
 **Tools:** Python · Claude Code · JSON Schema · Django · FastAPI · React · TypeScript · PostgreSQL · Docker · Linux · Bash · Git
 
@@ -60,4 +68,4 @@ I build AI apps with basic security from the start:
   <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/elkushi/elkushi/output/snake.svg">
 </picture>
 
-**Contact:** [moustafa.elkoushy7@gmail.com](mailto:moustafa.elkoushy7@gmail.com)
+**Contact:** [moustafa.elkoushy7@gmail.com](mailto:moustafa.elkoushy7@gmail.com) · [Telegram](https://t.me/Elkushi99)
