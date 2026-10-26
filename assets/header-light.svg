@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="Moustafa Elkoushy. I build AI workflows that check their own work.">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="Moustafa Elkoushy. I build AI products, and I make the AI check its own work.">
 <style>
   .name { font: 700 40px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; fill: #1f2328; opacity: 0; animation: rise .8s ease-out .1s forwards; }
   .prompt { font: 15px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; fill: #59636e; opacity: 0; animation: fade .4s ease-out forwards; }
   .type { font: 18px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; fill: #0969da; }
   .stack { font: 15px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; fill: #59636e; opacity: 0; animation: fade .6s ease-out 3.6s forwards; }
-  #clip rect { width: 0; animation: typing 2.4s steps(47) .9s forwards; }
-  .cursor { fill: #0969da; animation: move 2.4s steps(47) .9s forwards, blink 1s step-end 3.3s infinite; }
+  #clip rect { width: 0; animation: typing 2.4s steps(58) .9s forwards; }
+  .cursor { fill: #0969da; animation: move 2.4s steps(58) .9s forwards, blink 1s step-end 3.3s infinite; }
   @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
   @keyframes fade { to { opacity: 1; } }
-  @keyframes typing { to { width: 507.6px; } }
-  @keyframes move { to { transform: translateX(507.6px); } }
+  @keyframes typing { to { width: 626.4px; } }
+  @keyframes move { to { transform: translateX(626.4px); } }
   @keyframes blink { 50% { opacity: 0; } }
 </style>
 <defs><clipPath id="clip"><rect x="24" y="100" height="30"/></clipPath></defs>
 <text class="prompt" x="24" y="34">~/elkushi $</text>
 <text class="name" x="24" y="80">Moustafa Elkoushy</text>
-<text class="type" x="24" y="121" textLength="507.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip)">I build AI workflows that check their own work.</text>
+<text class="type" x="24" y="121" textLength="626.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip)">I build AI products, and I make the AI check its own work.</text>
 <rect class="cursor" x="25" y="104" width="2" height="22"/>
-<text class="stack" x="24" y="156">Claude Code · agentic workflows · Python · Linux · B2B messaging</text>
+<text class="stack" x="24" y="156">AI product engineer · Claude Code · Python · Django · React</text>
 </svg>

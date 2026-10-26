@@ -1,9 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Moustafa Elkoushy. I build AI workflows that check their own work." src="./assets/header-light.svg">
+  <img alt="Moustafa Elkoushy, AI product engineer. I build AI products, and I make the AI check its own work." src="./assets/header-light.svg">
 </picture>
 
-Most of what I build runs on Claude Code. An agent reads a written procedure,
+I build AI products end to end, from design to production. Most of them run
+on Claude Code. An agent reads a written procedure,
 calls small Python tools in order, and produces a finished deliverable: a
 report, a newsletter, a video.
 
