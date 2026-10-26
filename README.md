@@ -27,7 +27,18 @@ more than 400 cited claims.
 | | |
 |---|---|
 | [**claude_vibe_coding_projects**](https://github.com/elkushi/claude_vibe_coding_projects) | Agentic workflows built with Claude Code. Parallel research agents, a JSON Schema contract between steps, a validator as the gate, branded PDF output. |
+| [**ai-video-image-generator**](https://github.com/elkushi/ai-video-image-generator) | My own app: brand kit + topic in, short videos and image posts out. Claude agents write, Python tools render, QA checks the result. FastAPI + React web app, Docker, CI. |
 | [**system-audit**](https://github.com/elkushi/system-audit) | Bash tool that audits a Linux server: SUID files, open ports, SSH config, cron jobs, sensitive file permissions, failed logins. Writes a timestamped report. |
+
+## Security basics
+
+I build AI apps with basic security from the start:
+
+- AI agents get an allowlist of tools, never open shell access.
+- Uploads and file paths are checked, so nobody can read files outside the app.
+- Servers run HTTPS, key-only SSH and logins with hashed passwords.
+- Keys stay in `.env`, and every repo is scanned for secrets before it goes public.
+- I wrote [system-audit](https://github.com/elkushi/system-audit), a Bash tool that checks a Linux server for common misconfigurations.
 
 ## Background
 
@@ -42,10 +53,11 @@ more than 400 cited claims.
   Aviation Institute.
 - **Languages:** Arabic (native), English and Russian (C1).
 
-**Tools:** Python · Claude Code · JSON Schema · Django · PostgreSQL · REST APIs · Linux · Bash · Git
+**Tools:** Python · Claude Code · JSON Schema · Django · FastAPI · React · TypeScript · PostgreSQL · Docker · Linux · Bash · Git
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elkushi/elkushi/output/snake-dark.svg">
   <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/elkushi/elkushi/output/snake.svg">
 </picture>
 
+**Contact:** [moustafa.elkoushy7@gmail.com](mailto:moustafa.elkoushy7@gmail.com)
