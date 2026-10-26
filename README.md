@@ -18,8 +18,8 @@ The part I care about most is what happens when the model gets something wrong.
 
 My competitor-analysis workflow will not render a report if any claim has no
 source, any link is dead, placeholder text is left in, or a forbidden name
-appears. Its first real run covered 9 companies: 192 sources, about 412 cited
-claims.
+appears. Its first real run covered 9 companies, with about 190 sources and
+more than 400 cited claims.
 
 ## Projects
 
