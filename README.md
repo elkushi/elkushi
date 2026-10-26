@@ -30,9 +30,10 @@ more than 400 cited claims.
 
 ## Background
 
-- **Day job:** B2B messaging (SMS, WhatsApp, Viber). Website development,
-  technical specs and documentation, and talking to client engineers and
-  partners at industry events.
+- **Day job:** B2B messaging (SMS, WhatsApp, Viber). I designed and built the
+  company website, [ritorica.com](https://ritorica.com): Django CMS, PostgreSQL,
+  a Gemini chatbot and automated deploys. I also write technical specs and
+  documentation, and talk to client engineers and partners at industry events.
 - **Before that:** Arabic AI quality at Yandex, reviewing and correcting
   answers from the Alice voice assistant.
 - **Education:** MSc Software Engineering, BSc Avionics Engineering, Moscow
