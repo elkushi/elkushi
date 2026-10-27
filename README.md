@@ -59,7 +59,7 @@ I build AI apps with basic security from the start:
 - **Education:** MSc Software Engineering, BSc Avionics Engineering, Moscow
   Aviation Institute. Currently taking an AI and Machine Learning diploma at Route.
 - **Based in:** Moscow. Open to remote work and to relocation.
-- **Languages:** Arabic (native), Russian (C2), English (C1&ndash;C2).
+- **Languages:** Arabic (native), Russian (C1), English (C1&ndash;C2).
 
 **Tools:** Python · Claude Code · JSON Schema · Django · FastAPI · React · TypeScript · PostgreSQL · Docker · Linux · Bash · Git
 
